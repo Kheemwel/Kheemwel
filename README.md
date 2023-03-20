@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kheemwel&show_icons=true&locale=en&theme=transparent" alt="kheemwel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel" alt="kheemwel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel&show_icons=true&theme=transparent" alt="kheemwel" /></p>
