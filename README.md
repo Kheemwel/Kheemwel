@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kheemwel&label=Profile%20views&color=0e75b6&style=flat" alt="kheemwel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=kheemwel&theme=transparent alt="kheemwel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kheemwel" alt="kheemwel" /></a> </p>
 
 - 🔭 I’m currently working on [Imaginary Friends](https://github.com/JuanimaJM/ImaginaryFriends)
 
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kheemwel&show_icons=true&locale=en&layout=compact" alt="kheemwel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kheemwel&show_icons=true&locale=en" alt="kheemwel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kheemwel&show_icons=true&locale=en&theme=transparent" alt="kheemwel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel" alt="kheemwel" /></p>
