@@ -28,6 +28,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kheemwel&show_icons=true&locale=en&theme=transparent" alt="kheemwel" /></p>
 <details>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<summary>:eyes: Show example</summary>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kheemwel&show_icons=true&theme=transparent)
+
 </details>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel&theme=transparent" alt="kheemwel" /></p>theme=transparent
