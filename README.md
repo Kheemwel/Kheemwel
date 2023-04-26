@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kimwel Beller</h1>
 <h3 align="center">A BSIT student that is currently improving his programming skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kheemwel&label=Profile%20views&color=0e75b6&style=flat" alt="kheemwel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kheemwel&label=Profile%20views&color=0e75b6&style=flat&bg_color=00000000" alt="kheemwel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kheemwel&bg_color=00000000" alt="kheemwel" /></a> </p>
 
