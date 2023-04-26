@@ -38,4 +38,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel&theme=transparent" alt="kheemwel" /></p>theme=transparent
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel&theme=transparent" alt="kheemwel" /></p>
