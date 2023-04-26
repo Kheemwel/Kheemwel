@@ -27,5 +27,5 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kheemwel&show_icons=true&locale=en&layout=compact&theme=transparent" alt="kheemwel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kheemwel&show_icons=true&locale=en&theme=transparent" alt="kheemwel" /></p>
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kheemwel&show_icons=true&theme=transparent)
+![Kheemwel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kheemwel&show_icons=true&theme=transparent)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel&theme=transparent" alt="kheemwel" /></p>theme=transparent
