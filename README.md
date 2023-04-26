@@ -27,10 +27,15 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kheemwel&show_icons=true&locale=en&layout=compact&theme=transparent" alt="kheemwel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kheemwel&show_icons=true&locale=en&theme=transparent" alt="kheemwel" /></p>
-<details>
-<summary>:eyes: Show example</summary>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kheemwel&show_icons=true&theme=transparent)
-
-</details>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel&theme=transparent" alt="kheemwel" /></p>theme=transparent
