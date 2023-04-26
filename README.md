@@ -29,7 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kheemwel&show_icons=true&locale=en&theme=transparent" alt="kheemwel" /></p>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
 <source
