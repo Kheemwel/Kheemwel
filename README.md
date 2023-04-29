@@ -28,4 +28,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kheemwel&show_icons=true&locale=en&theme=transparent&bg_color=00000000" alt="kheemwel" /></p>
 
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=kheemwel&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=kheemwel&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kheemwel&theme=transparent" alt="kheemwel" /></p>
