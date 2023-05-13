@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Imaginary Friends](https://github.com/JuanimaJM/ImaginaryFriends)
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **PHP**, **Ren'Py**, and **Godot**
 
 - 👯 I’m looking to collaborate on [2D-Kai](https://github.com/Kheemwel/2DKai)
 
