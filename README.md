@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Jetpack Compose, Vue.js, React<br>- 💬 Ask me about anything</p>
+<p align="left">- 💬 Ask me about anything</p>
 <hr>
 
 ###
